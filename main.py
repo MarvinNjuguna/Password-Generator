@@ -1,3 +1,4 @@
+#This program creates different unique passwords based the number of passwords a user would prefer
 import random
 
 random_chars = "abcdefghiklmnopqrstvxyzABCDEFGHIKLMNOPQRSTVXYZ0123456789!@#$%"
